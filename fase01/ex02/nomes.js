@@ -4,5 +4,10 @@ function nomes (nome1, nome2){
 }
 
 
+function nomes (nome1, nome2){
+    console.log(nomes1e2("Marvin", "Cachlote"));
+}
+
+
 
 
