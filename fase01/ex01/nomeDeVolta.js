@@ -1,4 +1,4 @@
-function mostraNome(){
+function mostrarNome(){
     console.log ("Marvin");
 }
 
@@ -7,5 +7,3 @@ function mostraNome(){
 function nomeDeVolta(){
 console.log("O android paranoide");
 }
-
-
