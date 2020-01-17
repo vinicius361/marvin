@@ -1,6 +1,6 @@
 function nomeDeVolta(){
     console.log('Marvin')
-    return ('O androide paraoide');
+    return ('O andróide paranóide');
 }
 
 
